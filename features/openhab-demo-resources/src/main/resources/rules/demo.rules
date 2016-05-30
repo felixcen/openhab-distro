@@ -2,6 +2,7 @@ import org.joda.time.*
 
 var Timer timer = null
 
+
 /**
  * This is a demo rule which simulates a real dimmer by reacting to increase/decrease commands 
  * and posting an updated state on the bus 
